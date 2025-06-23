@@ -1,0 +1,17 @@
+Unit Test is testing of the individual units of code like method or classes
+Unit Testing is done by the Developer 
+Unit Testing done through development 
+
+The SDLC :
+    Design 
+    Develope(coding)
+    Testing -> Done by Testing Engineer post development testing
+
+The Most famous Framework for Unit Testing is JUNIT 5
+1.Steps in Unit Testing:
+2.Prepare(Setup a Test Environment < Write TestMethod)
+3.Provide Testing Unit
+4.Run the Test
+5.Provide Expected Output
+6.Perform Asseration(Verify the Result)
+7.report test results(Alerts Develope if test is failed or pass)
